@@ -24,6 +24,10 @@ Include your code here
 ## OUTPUT:
 
 Justify the results for varius iterations
+
+## Time Complexity Plot
+#### Plot a graph for various value of N and time(seconds)
+
 ## RESULT:
 
 
